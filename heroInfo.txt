@@ -1,0 +1,10 @@
+Thor,L,100,200.5,Mjolnir
+Mr.Fantastic,L,80,150.0,Elasticity
+Hulk,L,120,250.0,Super Strength
+IronMan,L,95,220.0,Mk50 suit
+BatMan,L,85,140.0,Trained Ninja
+Hawkeye,L,70,110.0,Bow and Arrow
+Ant-Man,L,150,100.0,Transform Size
+CaptainAmerica,L,100,190.0,Shield
+Vision,N,110,210.0,Mind Stone
+SpiderMan,L,90,160.0,Spider powers
